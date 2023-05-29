@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##WIP
+This website is still under heavy development. Feel free to send pull requests.
+
+<h1 align="center">
+<img src="image.png" alt="expense tracker " />
+</h1>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
