@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##WIP
+## WIP
 This website is still under heavy development. Feel free to send pull requests.
 
 <h1 align="center">
